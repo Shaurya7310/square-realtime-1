@@ -1,0 +1,40 @@
+.heading{
+    font-size: 23px;
+    width: 800px;
+    margin: 0px;
+    margin-left: 50px;
+    margin-top: 15px;
+    border-radius: 30px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    
+    box-shadow: 5px 5px 5px green;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.copy_right_footer{
+
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 2;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px green;
+}
+.note{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 17px;
+    background-color:orangered;
+    padding: 5px;
+    border-radius: 25px;
+    color: white;
+}
